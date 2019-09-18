@@ -1,14 +1,3 @@
-# How to trigger the bug
-
-1. Build and run the project (see below)
-2. Open localhost:8080
-3. Do the following steps
-   * Click 'Set into container'
-   * Click 'Clear container'
-   * Click 'Create new / Add' or edit an item with 'Edit'
-
-→ Clientside crash
-
 # Default Vaadin-Project with usage of Meecrowave
 
 ## How to use ##
