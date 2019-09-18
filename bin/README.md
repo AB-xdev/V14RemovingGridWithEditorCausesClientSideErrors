@@ -1,10 +1,10 @@
-# Default Vaadin-Project with usage of Meecrowave
+# StandardVaadin-Projekt mit Nutzung von Meecrowave
 
 ## How to use ##
 
 #### Run in IDE/Eclipse ####
 
-1. `clean install`
+1. `Right click clean-install.launch → Run as → clean-install` OR `clean install`
 
 2. `Right click MainStarter.java → Run as → Java Application`
 
