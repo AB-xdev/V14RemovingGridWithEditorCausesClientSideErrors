@@ -29,6 +29,9 @@ node/
 # Ignore Other Maven stuff
 .mvn/
 
+# Ignore bin
+bin/
+
 # Ignore Maven stuff
 target/
 pom.xml.tag
